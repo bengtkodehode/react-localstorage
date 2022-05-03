@@ -1,9 +1,7 @@
 import { Counter } from './component/counter'
 
 function App() {
-  return (
-    <Counter />
-  )
+  return <Counter />
 }
 
-export default App;
+export default App
